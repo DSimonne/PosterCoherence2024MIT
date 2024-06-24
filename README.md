@@ -1,3 +1,11 @@
+# Poster rendering
+
+<p align="center">
+<a href="https://www.dsimonne.eu/Attachments/PosterCoherence2024MIT.pdf">
+<img src="https://www.dsimonne.eu/Attachments/PosterCoherence2024MIT.png">
+</a>
+</p>
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme.
@@ -90,22 +98,3 @@ Copyright (c) Anish Athalye. Released under the MIT License. See
 [Lato]: https://www.fontsquirrel.com/fonts/lato
 [license]: LICENSE.md
 [FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
-
-
-Dear David,
-
-There will be about 80 posters at this conference. We need to plan two poster sessions to show them all.
-
-I understand that this is important for you, and I would suggest that you include information on the activities of your new group within the poster you bring. The stands we use for the poster session have the width of A0 (about 84cm) but a height of about 180cm (i.e. larger than the standard A0 -119 cm). You might manage to fit some more information there.
- 
-@article{Dumerval2014,
-author = {Dumerval, Marie and Perrin, St{\'{e}}phane and Marchetti, Lo{\"{i}}c and Tabarant, Michel and Jomard, Fran{\c{c}}ois and Wouters, Yves},
-doi = {10.1016/j.corsci.2014.04.025},
-issn = {0010-938X},
-journal = {Corrosion Science},
-pages = {251--257},
-publisher = {Elsevier Ltd},
-title = {{Hydrogen absorption associated with the corrosion mechanism of 316L stainless steels in primary medium of Pressurized Water Reactor ( PWR )}},
-volume = {85},
-year = {2014}
-}
